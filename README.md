@@ -6,6 +6,10 @@ apt update & apt upgrade
 
 pkg install python3
 
+pip install requests 
+
+pip install colorama
+
 pkg install git
 
 git clone https://github.com/iliacodeorg/sms-bomber-v2.git
@@ -18,6 +22,10 @@ python3 sms_bomber.py
 apt-get update
 
 apt-get install python3
+
+pip install requests 
+
+pip install colorama
 
 apt-get install git
 
