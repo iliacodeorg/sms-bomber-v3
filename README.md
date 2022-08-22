@@ -12,9 +12,9 @@ pip install colorama
 
 pkg install git
 
-git clone https://github.com/iliacodeorg/sms-bomber-v2.git
+git clone https://github.com/iliacodeorg/sms-bomber-v3.git
 
-cd sms-bomber-v2
+cd sms-bomber-v3
 
 python3 sms_bomber.py
 
@@ -31,8 +31,8 @@ apt-get install git
 
 cd Desktop
 
-git clone https://github.com/iliacodeorg/sms-bomber-v2.git
+git clone https://github.com/iliacodeorg/sms-bomber-v3.git
 
-cd sms-bomber-v2
+cd sms-bomber-v3
 
 python3 sms_bomber.py
