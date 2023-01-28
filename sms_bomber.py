@@ -99,9 +99,9 @@ def rubika(phone):
         if "OK" in ruR.text:
             print ("[+]DONE")
         else:
-            print ("FAILED[ × ]")
+            print ("[×]")
     except:
-        print ("FAILED[ × ]")
+        print ("[×]")
 
 def torob(phone):
     #torob api
@@ -111,9 +111,9 @@ def torob(phone):
         if "sent" in torobR.text:
             print ("[+]DONE")
         else:
-            print ("FAILED[ × ]")
+            print ("[×]")
     except:
-        print ("FAILED[ × ]")
+        print ("[×]")
 
 def bama(phone):
     #bama api
@@ -124,9 +124,9 @@ def bama(phone):
         if "0" in bamaR.text:
             print ("[+]DONE")
         else:
-            print ("FAILED[ × ]")
+            print ("[×]")
     except:
-        print ("FAILED[ × ]")
+        print ("[×]")
 
 
 def SlowPrint(txt):
@@ -184,7 +184,7 @@ def SlowPrint(txt):
 SlowPrint(Fore.WHITE + '''  
 
 ====================================
-++ instagram: @e8l4i ++
+++ instagram: @e8l4i ♡
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــ
 Decode by : iliacode 
 ـــــــــــــــــــــــــــــــــــــــــــــــــــــــ
